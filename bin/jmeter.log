@@ -1,0 +1,375 @@
+2023-03-09 13:20:38,700 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2023-03-09 13:20:38,741 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-03-09 13:20:38,742 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-03-09 13:20:38,751 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2023-03-09 13:20:38,751 INFO o.a.j.JMeter: Version 5.5
+2023-03-09 13:20:38,752 INFO o.a.j.JMeter: java.version=11.0.12
+2023-03-09 13:20:38,752 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2023-03-09 13:20:38,752 INFO o.a.j.JMeter: os.name=Windows 10
+2023-03-09 13:20:38,752 INFO o.a.j.JMeter: os.arch=amd64
+2023-03-09 13:20:38,752 INFO o.a.j.JMeter: os.version=10.0
+2023-03-09 13:20:38,752 INFO o.a.j.JMeter: file.encoding=Cp1252
+2023-03-09 13:20:38,752 INFO o.a.j.JMeter: java.awt.headless=null
+2023-03-09 13:20:38,752 INFO o.a.j.JMeter: Max memory     =4244635648
+2023-03-09 13:20:38,752 INFO o.a.j.JMeter: Available Processors =8
+2023-03-09 13:20:38,764 INFO o.a.j.JMeter: Default Locale=English (United States)
+2023-03-09 13:20:38,764 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2023-03-09 13:20:38,764 INFO o.a.j.JMeter: JMeterHome=C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5
+2023-03-09 13:20:38,764 INFO o.a.j.JMeter: user.dir  =C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin
+2023-03-09 13:20:38,764 INFO o.a.j.JMeter: PWD       =C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin
+2023-03-09 13:20:38,766 INFO o.a.j.JMeter: IP: 192.168.144.1 Name: Hana FullName: Hana.mshome.net
+2023-03-09 13:20:38,783 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-03-09 13:20:39,322 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-03-09 13:20:43,218 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_10-63bbb06564fa02e7c3b4cfc5b45344b9-gui
+2023-03-09 13:20:47,221 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.8, jpgc-webdriver=4.8.0, jmeter-core=5.5, jmeter-ftp=5.5, jmeter-http=5.5, jmeter-jdbc=5.5, jmeter-jms=5.5, jmeter-junit=5.5, jmeter-java=5.5, jmeter-ldap=5.5, jmeter-mail=5.5, jmeter-mongodb=5.5, jmeter-native=5.5, jmeter-tcp=5.5, jmeter-components=5.5]
+2023-03-09 13:20:47,226 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2023-03-09 13:21:02,710 INFO o.a.j.s.FileServer: Default base='C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin'
+2023-03-09 13:21:02,719 INFO o.a.j.g.a.Load: Loading file: C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin\number of user TG.jmx
+2023-03-09 13:21:02,719 INFO o.a.j.s.FileServer: Set new base='C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin'
+2023-03-09 13:21:02,970 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-03-09 13:21:02,993 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-03-09 13:21:02,997 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-03-09 13:21:03,001 INFO o.a.j.s.SaveService: Loading file: C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin\number of user TG.jmx
+2023-03-09 13:21:03,322 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-03-09 13:21:03,322 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-03-09 13:21:03,322 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-03-09 13:21:03,322 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-03-09 13:21:03,322 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-03-09 13:21:03,323 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-03-09 13:21:03,698 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2023-03-09 13:21:03,698 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin\proxyserver.jks
+2023-03-09 13:21:04,554 INFO o.a.j.s.FileServer: Set new base='C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin'
+2023-03-09 14:50:43,923 INFO o.a.j.s.FileServer: Set new base='C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin'
+2023-03-09 14:50:43,961 INFO o.a.j.g.a.Load: Loading file: C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin\number of user TG.jmx
+2023-03-09 14:50:43,962 INFO o.a.j.s.FileServer: Set new base='C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin'
+2023-03-09 14:50:43,962 INFO o.a.j.s.SaveService: Loading file: C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin\number of user TG.jmx
+2023-03-09 14:50:44,833 INFO o.a.j.s.FileServer: Set new base='C:\Users\USER\Downloads\apache-jmeter-5.5\apache-jmeter-5.5\bin'
+2023-03-09 16:31:41,397 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-03-09 16:31:41,401 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-03-09 16:31:41,401 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-03-09 16:31:41,405 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2023-03-09 16:31:41,405 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2023-03-09 16:31:41,841 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-03-09 16:31:41,931 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : number of user TG
+2023-03-09 16:31:41,932 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group number of user TG.
+2023-03-09 16:31:41,932 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 16:31:41,932 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2023-03-09 16:31:41,945 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-03-09 16:31:41,947 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : api sample 
+2023-03-09 16:31:41,947 INFO o.a.j.e.StandardJMeterEngine: Starting 3 threads for group api sample .
+2023-03-09 16:31:41,947 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 16:31:41,947 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=3 ramp-up=1 delayedStart=false
+2023-03-09 16:31:41,948 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-1
+2023-03-09 16:31:41,949 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2023-03-09 16:31:41,949 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-03-09 16:31:41,952 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-1
+2023-03-09 16:31:41,955 INFO o.a.j.s.FileServer: Stored: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 16:31:41,970 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = Hana
+2023-03-09 16:31:41,976 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2023-03-09 16:31:41,977 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-03-09 16:31:41,977 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2023-03-09 16:31:41,977 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-03-09 16:31:41,977 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-03-09 16:31:42,262 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2023-03-09 16:31:42,264 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2023-03-09 16:31:42,264 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2023-03-09 16:31:42,286 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-2
+2023-03-09 16:31:42,443 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-2
+2023-03-09 16:31:42,479 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2023-03-09 16:31:42,480 INFO o.a.j.u.SSLManager: KeyStore created OK
+2023-03-09 16:31:42,480 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2023-03-09 16:31:42,618 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-3
+2023-03-09 16:31:43,309 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-1
+2023-03-09 16:31:43,309 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-1
+2023-03-09 16:31:43,437 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-2
+2023-03-09 16:31:43,439 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-2
+2023-03-09 16:31:43,775 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-3
+2023-03-09 16:31:43,776 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-3
+2023-03-09 16:32:05,094 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-1
+2023-03-09 16:32:05,094 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-1
+2023-03-09 16:32:05,609 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-2
+2023-03-09 16:32:05,609 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-2
+2023-03-09 16:32:05,610 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-03-09 16:32:05,610 INFO o.a.j.s.FileServer: Close: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 16:32:05,624 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-03-09 16:32:38,487 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-03-09 16:32:43,862 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-03-09 16:32:43,863 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-03-09 16:32:43,869 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-03-09 16:32:43,874 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : number of user TG
+2023-03-09 16:32:43,874 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group number of user TG.
+2023-03-09 16:32:43,874 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 16:32:43,874 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2023-03-09 16:32:43,879 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-03-09 16:32:43,879 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : api sample 
+2023-03-09 16:32:43,879 INFO o.a.j.e.StandardJMeterEngine: Starting 3 threads for group api sample .
+2023-03-09 16:32:43,879 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 16:32:43,879 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=3 ramp-up=1 delayedStart=false
+2023-03-09 16:32:43,880 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2023-03-09 16:32:43,880 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-03-09 16:32:43,881 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-1
+2023-03-09 16:32:43,882 INFO o.a.j.s.FileServer: Stored: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 16:32:43,885 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-1
+2023-03-09 16:32:44,213 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-2
+2023-03-09 16:32:44,383 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-2
+2023-03-09 16:32:44,547 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-3
+2023-03-09 16:32:44,592 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-1
+2023-03-09 16:32:44,593 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-1
+2023-03-09 16:32:44,929 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-2
+2023-03-09 16:32:44,929 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-2
+2023-03-09 16:32:45,253 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-3
+2023-03-09 16:32:45,253 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-3
+2023-03-09 16:33:06,744 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-1
+2023-03-09 16:33:06,746 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-1
+2023-03-09 16:33:06,792 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-2
+2023-03-09 16:33:06,792 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-2
+2023-03-09 16:33:06,792 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-03-09 16:33:06,792 INFO o.a.j.s.FileServer: Close: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 16:33:06,793 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-03-09 17:01:45,228 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-03-09 17:03:12,335 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-03-09 17:03:12,335 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-03-09 17:03:12,340 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-03-09 17:03:12,350 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : number of user TG
+2023-03-09 17:03:12,352 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group number of user TG.
+2023-03-09 17:03:12,356 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:03:12,356 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2023-03-09 17:03:12,367 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-03-09 17:03:12,368 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : api sample 
+2023-03-09 17:03:12,368 INFO o.a.j.e.StandardJMeterEngine: Starting 3 threads for group api sample .
+2023-03-09 17:03:12,368 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:03:12,368 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=3 ramp-up=1 delayedStart=false
+2023-03-09 17:03:12,368 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-1
+2023-03-09 17:03:12,369 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2023-03-09 17:03:12,369 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : login sample 
+2023-03-09 17:03:12,370 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group login sample .
+2023-03-09 17:03:12,369 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-1
+2023-03-09 17:03:12,370 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:03:12,370 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=1 ramp-up=1 delayedStart=false
+2023-03-09 17:03:12,370 INFO o.a.j.s.FileServer: Stored: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:03:12,370 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2023-03-09 17:03:12,370 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-03-09 17:03:12,370 INFO o.a.j.t.JMeterThread: Thread started: login sample  3-1
+2023-03-09 17:03:12,375 INFO o.a.j.t.JMeterThread: Thread is done: login sample  3-1
+2023-03-09 17:03:12,375 INFO o.a.j.t.JMeterThread: Thread finished: login sample  3-1
+2023-03-09 17:03:12,710 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-2
+2023-03-09 17:03:12,875 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-2
+2023-03-09 17:03:13,042 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-3
+2023-03-09 17:03:13,369 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-1
+2023-03-09 17:03:13,369 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-1
+2023-03-09 17:03:13,563 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-2
+2023-03-09 17:03:13,563 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-2
+2023-03-09 17:03:13,932 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-3
+2023-03-09 17:03:13,932 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-3
+2023-03-09 17:03:36,766 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-2
+2023-03-09 17:03:36,766 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-2
+2023-03-09 17:03:37,154 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-1
+2023-03-09 17:03:37,154 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-1
+2023-03-09 17:03:37,156 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-03-09 17:03:37,156 INFO o.a.j.s.FileServer: Close: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:03:37,156 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-03-09 17:16:33,465 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-03-09 17:16:33,467 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-03-09 17:16:33,478 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-03-09 17:16:33,488 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : number of user TG
+2023-03-09 17:16:33,488 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group number of user TG.
+2023-03-09 17:16:33,488 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:16:33,489 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2023-03-09 17:16:33,493 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-03-09 17:16:33,493 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : api sample 
+2023-03-09 17:16:33,493 INFO o.a.j.e.StandardJMeterEngine: Starting 3 threads for group api sample .
+2023-03-09 17:16:33,493 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:16:33,493 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=3 ramp-up=1 delayedStart=false
+2023-03-09 17:16:33,493 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-1
+2023-03-09 17:16:33,494 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2023-03-09 17:16:33,494 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : login sample 
+2023-03-09 17:16:33,494 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group login sample .
+2023-03-09 17:16:33,494 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:16:33,494 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=1 ramp-up=1 delayedStart=false
+2023-03-09 17:16:33,495 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2023-03-09 17:16:33,495 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-03-09 17:16:33,496 INFO o.a.j.t.JMeterThread: Thread started: login sample  3-1
+2023-03-09 17:16:33,496 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-1
+2023-03-09 17:16:33,497 INFO o.a.j.s.FileServer: Stored: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:16:33,499 INFO o.a.j.t.JMeterThread: Thread is done: login sample  3-1
+2023-03-09 17:16:33,499 INFO o.a.j.t.JMeterThread: Thread finished: login sample  3-1
+2023-03-09 17:16:33,827 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-2
+2023-03-09 17:16:33,993 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-2
+2023-03-09 17:16:34,161 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-3
+2023-03-09 17:16:34,448 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-1
+2023-03-09 17:16:34,448 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-1
+2023-03-09 17:16:34,614 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-2
+2023-03-09 17:16:34,616 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-2
+2023-03-09 17:16:34,974 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-3
+2023-03-09 17:16:34,975 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-3
+2023-03-09 17:16:56,035 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-1
+2023-03-09 17:16:56,035 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-1
+2023-03-09 17:16:56,153 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-2
+2023-03-09 17:16:56,154 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-2
+2023-03-09 17:16:56,154 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-03-09 17:16:56,154 INFO o.a.j.s.FileServer: Close: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:16:56,155 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-03-09 17:18:13,843 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-03-09 17:18:13,843 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-03-09 17:18:13,847 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-03-09 17:18:13,964 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : number of user TG
+2023-03-09 17:18:13,964 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group number of user TG.
+2023-03-09 17:18:13,964 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:18:13,964 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2023-03-09 17:18:13,968 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-03-09 17:18:13,969 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : api sample 
+2023-03-09 17:18:13,969 INFO o.a.j.e.StandardJMeterEngine: Starting 3 threads for group api sample .
+2023-03-09 17:18:13,969 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:18:13,969 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=3 ramp-up=1 delayedStart=false
+2023-03-09 17:18:13,970 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-1
+2023-03-09 17:18:13,970 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2023-03-09 17:18:13,970 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-1
+2023-03-09 17:18:13,970 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : login sample 
+2023-03-09 17:18:13,970 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group login sample .
+2023-03-09 17:18:13,970 INFO o.a.j.s.FileServer: Stored: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:18:13,970 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:18:13,970 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=1 ramp-up=1 delayedStart=false
+2023-03-09 17:18:13,971 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2023-03-09 17:18:13,971 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-03-09 17:18:13,971 INFO o.a.j.t.JMeterThread: Thread started: login sample  3-1
+2023-03-09 17:18:13,972 INFO o.a.j.t.JMeterThread: Thread is done: login sample  3-1
+2023-03-09 17:18:13,972 INFO o.a.j.t.JMeterThread: Thread finished: login sample  3-1
+2023-03-09 17:18:14,304 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-2
+2023-03-09 17:18:14,468 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-2
+2023-03-09 17:18:14,636 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-3
+2023-03-09 17:18:36,357 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-2
+2023-03-09 17:18:36,357 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-2
+2023-03-09 17:18:36,407 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-3
+2023-03-09 17:18:36,408 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-3
+2023-03-09 17:18:36,583 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-1
+2023-03-09 17:18:36,583 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-1
+2023-03-09 17:18:36,978 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-1
+2023-03-09 17:18:36,978 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-2
+2023-03-09 17:18:36,978 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-1
+2023-03-09 17:18:36,978 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-2
+2023-03-09 17:18:36,979 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-03-09 17:18:36,979 INFO o.a.j.s.FileServer: Close: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:18:36,980 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-03-09 17:18:44,685 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-03-09 17:18:44,685 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-03-09 17:18:44,689 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-03-09 17:18:44,770 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : number of user TG
+2023-03-09 17:18:44,770 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group number of user TG.
+2023-03-09 17:18:44,770 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:18:44,771 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2023-03-09 17:18:44,775 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-1
+2023-03-09 17:18:44,776 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-03-09 17:18:44,776 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : api sample 
+2023-03-09 17:18:44,777 INFO o.a.j.e.StandardJMeterEngine: Starting 3 threads for group api sample .
+2023-03-09 17:18:44,777 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:18:44,777 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=3 ramp-up=1 delayedStart=false
+2023-03-09 17:18:44,777 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2023-03-09 17:18:44,778 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : login sample 
+2023-03-09 17:18:44,778 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group login sample .
+2023-03-09 17:18:44,778 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:18:44,778 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=1 ramp-up=1 delayedStart=false
+2023-03-09 17:18:44,778 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2023-03-09 17:18:44,779 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-03-09 17:18:44,780 INFO o.a.j.t.JMeterThread: Thread started: login sample  3-1
+2023-03-09 17:18:44,782 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-1
+2023-03-09 17:18:44,783 INFO o.a.j.s.FileServer: Stored: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:18:45,116 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-2
+2023-03-09 17:18:45,276 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-2
+2023-03-09 17:18:45,448 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-3
+2023-03-09 17:18:45,461 INFO o.a.j.t.JMeterThread: Thread is done: login sample  3-1
+2023-03-09 17:18:45,461 INFO o.a.j.t.JMeterThread: Thread finished: login sample  3-1
+2023-03-09 17:18:45,531 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-1
+2023-03-09 17:18:45,531 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-1
+2023-03-09 17:18:45,848 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-2
+2023-03-09 17:18:45,848 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-2
+2023-03-09 17:18:46,267 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-3
+2023-03-09 17:18:46,267 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-3
+2023-03-09 17:19:07,270 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-1
+2023-03-09 17:19:07,271 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-1
+2023-03-09 17:19:07,316 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-2
+2023-03-09 17:19:07,316 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-2
+2023-03-09 17:19:07,317 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-03-09 17:19:07,317 INFO o.a.j.s.FileServer: Close: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:19:07,318 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-03-09 17:19:20,535 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-03-09 17:19:20,535 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-03-09 17:19:20,539 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-03-09 17:19:20,643 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : number of user TG
+2023-03-09 17:19:20,643 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group number of user TG.
+2023-03-09 17:19:20,643 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:19:20,643 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2023-03-09 17:19:20,646 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-03-09 17:19:20,646 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : api sample 
+2023-03-09 17:19:20,646 INFO o.a.j.e.StandardJMeterEngine: Starting 3 threads for group api sample .
+2023-03-09 17:19:20,646 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:19:20,647 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=3 ramp-up=1 delayedStart=false
+2023-03-09 17:19:20,646 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-1
+2023-03-09 17:19:20,648 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2023-03-09 17:19:20,648 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-1
+2023-03-09 17:19:20,648 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : login sample 
+2023-03-09 17:19:20,648 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group login sample .
+2023-03-09 17:19:20,648 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:19:20,648 INFO o.a.j.s.FileServer: Stored: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:19:20,648 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=1 ramp-up=1 delayedStart=false
+2023-03-09 17:19:20,651 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2023-03-09 17:19:20,652 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-03-09 17:19:20,654 INFO o.a.j.t.JMeterThread: Thread started: login sample  3-1
+2023-03-09 17:19:20,983 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-2
+2023-03-09 17:19:21,150 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-2
+2023-03-09 17:19:21,317 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-3
+2023-03-09 17:19:21,353 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-1
+2023-03-09 17:19:21,353 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-1
+2023-03-09 17:19:21,689 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-2
+2023-03-09 17:19:21,689 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-2
+2023-03-09 17:19:22,122 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-3
+2023-03-09 17:19:22,122 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-3
+2023-03-09 17:19:41,716 INFO o.a.j.t.JMeterThread: Thread is done: login sample  3-1
+2023-03-09 17:19:41,717 INFO o.a.j.t.JMeterThread: Thread finished: login sample  3-1
+2023-03-09 17:19:43,285 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-1
+2023-03-09 17:19:43,285 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-1
+2023-03-09 17:19:43,474 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-2
+2023-03-09 17:19:43,474 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-2
+2023-03-09 17:19:43,475 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-03-09 17:19:43,475 INFO o.a.j.s.FileServer: Close: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:19:43,476 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-03-09 17:20:10,962 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-03-09 17:20:10,962 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-03-09 17:20:10,968 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-03-09 17:20:10,977 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : number of user TG
+2023-03-09 17:20:10,978 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group number of user TG.
+2023-03-09 17:20:10,978 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:20:10,978 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2023-03-09 17:20:10,988 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-1
+2023-03-09 17:20:10,989 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-03-09 17:20:10,989 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : api sample 
+2023-03-09 17:20:10,989 INFO o.a.j.e.StandardJMeterEngine: Starting 3 threads for group api sample .
+2023-03-09 17:20:10,989 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:20:10,989 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=3 ramp-up=1 delayedStart=false
+2023-03-09 17:20:10,990 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2023-03-09 17:20:10,990 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : login sample 
+2023-03-09 17:20:10,991 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group login sample .
+2023-03-09 17:20:10,991 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-03-09 17:20:10,991 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=1 ramp-up=1 delayedStart=false
+2023-03-09 17:20:10,991 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2023-03-09 17:20:10,991 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-03-09 17:20:10,991 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-1
+2023-03-09 17:20:10,991 INFO o.a.j.t.JMeterThread: Thread started: login sample  3-1
+2023-03-09 17:20:10,991 INFO o.a.j.s.FileServer: Stored: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:20:11,325 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-2
+2023-03-09 17:20:11,485 INFO o.a.j.t.JMeterThread: Thread started: number of user TG 1-2
+2023-03-09 17:20:11,658 INFO o.a.j.t.JMeterThread: Thread started: api sample  2-3
+2023-03-09 17:20:32,029 INFO o.a.j.t.JMeterThread: Thread is done: login sample  3-1
+2023-03-09 17:20:32,029 INFO o.a.j.t.JMeterThread: Thread finished: login sample  3-1
+2023-03-09 17:20:33,660 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-1
+2023-03-09 17:20:33,660 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-1
+2023-03-09 17:20:33,805 INFO o.a.j.t.JMeterThread: Thread is done: number of user TG 1-2
+2023-03-09 17:20:33,806 INFO o.a.j.t.JMeterThread: Thread finished: number of user TG 1-2
+2023-03-09 17:21:28,345 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-3
+2023-03-09 17:21:28,345 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-1
+2023-03-09 17:21:28,345 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-3
+2023-03-09 17:21:28,345 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-1
+2023-03-09 17:21:28,345 INFO o.a.j.t.JMeterThread: Thread is done: api sample  2-2
+2023-03-09 17:21:28,345 INFO o.a.j.t.JMeterThread: Thread finished: api sample  2-2
+2023-03-09 17:21:28,346 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-03-09 17:21:28,346 INFO o.a.j.s.FileServer: Close: C:/Users/USER/Desktop/list of var.csv
+2023-03-09 17:21:28,347 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
